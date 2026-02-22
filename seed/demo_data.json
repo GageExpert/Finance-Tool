@@ -1,0 +1,11 @@
+{
+  "users": [{"email": "demo@axium.local", "password": "DemoPass123!"}],
+  "watchlists": [{"name": "Core", "tickers": ["AAPL", "MSFT", "NVDA"]}],
+  "statement_samples": {
+    "AAPL": {
+      "income": [{"line": "Revenue", "2023": 383285}],
+      "balance": [{"line": "Total Assets", "2023": 352583}],
+      "cashflow": [{"line": "Operating Cash Flow", "2023": 110543}]
+    }
+  }
+}
